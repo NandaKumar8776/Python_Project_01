@@ -1,4 +1,4 @@
-# Python Project 1: Anagram Solver
+# Anagram Solver
 
 ## Description
 The main goal of this project is to use four modified WordNet dictionary index files and some Python code to build an application that can solve anagram word game puzzles. The user enters a series of letters, such as "BEALF," and the code returns the word "fable" along with its word type, e.g., "noun."
